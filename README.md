@@ -1,5 +1,13 @@
-## Hi there 👋
+### Hi, I am Tharmarajan 👋 IGN Tin Tin
 
+___
+
+
+
+> Code is like humor. When you have to explain it, it’s bad.
+
+- 🔭 I'm Currently working on [Algorithm Visualizer](https://algorithmvisualizer.in/)
+- 🌱 I’m currently learning React ![React](<img width="10" height="10" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>)
 <!--
 **tintino7/tintino7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
