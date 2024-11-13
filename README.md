@@ -23,6 +23,7 @@ ___
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/data-configuration.png" alt="data-configuration"/>
 
+___
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tintino7&bg_color=1f1f1f&color=999e4c&line=09d732&point=157fc1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
