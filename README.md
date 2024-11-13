@@ -6,7 +6,7 @@ ___
 
 > Code is like humor. When you have to explain it, it’s bad.
 
-- 🔭 I’m making algorithms dance on the screen with my [Algorithm Visualizer](https://algorithmvisualizer.in/) project—watch them solve, sort, and search!
+- 🔭 I’m currently making algorithms dance on the screen with my [Algorithm Visualizer](https://algorithmvisualizer.in/) project—watch them solve, sort, and search!
 - 🌱 I’m currently learning React aka bending the DOM to my will with React magic!
 - 👯‍♂️ Ready to team up on projects that are as fun to build as they are to use! Let’s make something awesome 😎 together!
 - 🍪 Currently accepting snacks… but would also take a job offer!
