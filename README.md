@@ -14,7 +14,8 @@ ___
 - 📫 Carrier pigeons welcome, but email or LinkedIn might be quicker!
   <br>
   
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/tharmarajan/)) ![Static Badge](https://img.shields.io/badge/tharmarajan012%40gmail.com%20--%20%2300a7e5)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/tharmarajan/))
+[![Email me](https://img.shields.io/badge/📬_Email_me-blue?style=for-the-badge)](mailto:tharmarajan012@gmail.com)
 
 
 
