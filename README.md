@@ -14,7 +14,7 @@ ___
 - 📫 Carrier pigeons welcome, but email or LinkedIn might be quicker!
   <br>
   
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/tharmarajan/))
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharmarajan/))
 [![Email me](https://img.shields.io/badge/📬_Email_me-blue?style=for-the-badge)](mailto:tharmarajan012@gmail.com)
 
 - 😄 Pronouns : Programmer / Problem Solver / Bug Squasher
