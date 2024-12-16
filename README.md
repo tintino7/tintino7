@@ -6,7 +6,7 @@ ___
 
 > Code is like humor. When you have to explain it, it’s bad.
 
-- 🔭 I’m currently making algorithms dance on the screen with my [Algorithm Visualizer](https://algorithmvisualizer.in/) project—watch them solve, sort, and search!
+- 🔭 I’m currently making algorithms dance on the screen with my [Algorithm Visualizer]([https://algorithmvisualizer.in/](https://algorithm-visualizer-v1jh.vercel.app/)) project—watch them solve, sort, and search!
 - 🌱 I’m currently learning React aka bending the DOM to my will with React magic!
 - 👯‍♂️ Ready to team up on projects that are as fun to build as they are to use! Let’s make something awesome 😎 together!
 - 🍪 Currently accepting snacks… but would also take a job offer!
@@ -16,6 +16,7 @@ ___
   
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tharmarajan/)
 [![Email me](https://img.shields.io/badge/📬_Email_me-blue?style=for-the-badge)](mailto:tharmarajan012@gmail.com)
+ - tharmarajan012@gmail.com
 
 - 😄 Pronouns : Programmer / Problem Solver / Bug Squasher
 - ⚡ Fun fact : I understand binary, but I’m more comfortable with useState and useEffect these days!
